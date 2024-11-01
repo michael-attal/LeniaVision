@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/ImmersiveSpace.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/VolumetricWindow.unity
+    guid: 1231480c80144464fb11ebf3756ae32b
+  m_configObjects:
+    UnityEditor.XR.VisionOS.VisionOSSettings: {fileID: 11400000, guid: 0f3ae5873aea1412cafc9bf6b07d5109, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.polyspatial.xr.xr_settings: {fileID: 11400000, guid: f870905fd0f0f45e28e12c68dc005096, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 2530c14481aea417a80e092c2a2c4704, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e328832503d1b453c9ee856147278c9b, type: 2}
+  m_UseUCBPForAssetBundles: 0
